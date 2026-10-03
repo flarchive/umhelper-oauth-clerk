@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of umhelper/oauth-clerk.** Not for installation: use [Packagist](https://packagist.org/packages/umhelper/oauth-clerk) or the [upstream repository](https://github.com/UMHelper/flarum-ext-oauth-clerk).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/umhelper-oauth-clerk/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.3.1`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/umhelper-oauth-clerk/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.3.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-11-28 | `^1.3.1` | [Browse](https://github.com/flarchive/umhelper-oauth-clerk/tree/archive/v1.0.0) |
+| `1.0.1` | 2023-11-28 | `^1.3.1` | [Browse](https://github.com/flarchive/umhelper-oauth-clerk/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/umhelper-oauth-clerk.json](https://github.com/flarchive/archive-index/blob/main/packages/umhelper-oauth-clerk.json)
 
